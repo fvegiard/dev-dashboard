@@ -1,0 +1,19 @@
+# Dépendances
+node_modules/
+package-lock.json
+
+# Profil Chrome isolé du dashboard
+chrome-profile/
+chrome-debug.log
+*.log
+
+# Artefacts de test / démo
+_test_*/
+_demo_*/
+.tmp/
+vibedeck-*.png
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
